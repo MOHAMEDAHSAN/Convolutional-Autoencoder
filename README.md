@@ -85,10 +85,12 @@ def train(model, loader, criterion, optimizer, epochs=5):
 ## OUTPUT
 
 ### Model Summary
+![image](https://github.com/user-attachments/assets/23aa523a-0215-4933-8882-b6f69e08c4e2)
 
 
 
 ### Original vs Noisy Vs Reconstructed Image
+![image](https://github.com/user-attachments/assets/e0874940-0e46-472c-b345-99b6083704cd)
 
 
 
